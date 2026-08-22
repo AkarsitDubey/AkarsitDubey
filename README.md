@@ -4,7 +4,7 @@
   </a>
 </div>
 
-# 👋 Greetings, I'm Inferno_Dev
+# 👋 Greetings, I'm Akarsit Dubey
 
 Crafting digital experiences with a fusion of art and code. 🚀✨
 
@@ -35,12 +35,12 @@ Crafting digital experiences with a fusion of art and code. 🚀✨
 
 ## 📫 Get in touch
 
-- Discord: [Inferno](https://discord.com/users/1152852720148029462)
+- Discord: [Inferno](https://discord.com/users/1442131299547480085)
 - Twitter Enchantments: [Code Devil](https://twitter.com/CodeDevil69)
 - YouTube Spells: [Code Devil](https://www.youtube.com/channel/UC5Mjeqbdwdc2TM4vLYP2EyA)
 
 <div align="center">
-  <a href="https://github.com/DevInferno">
-    <img src="https://github.com/Inferno-Dev-69/Inferno-Dev-69/blob/main/grid-snake.svg" alt="snake" />
+  <a href="https://github.com/AkarsitDubey">
+    <img src="https://github.com/AkarsitDubey/AkarsitDubey/blob/main/grid-snake.svg" alt="snake" />
   </a>
 </div>
