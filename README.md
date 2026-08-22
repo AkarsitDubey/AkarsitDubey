@@ -1,16 +1,46 @@
-## Hi there 👋
+<div align="center">
+  <a href="https://github.com/AkarsitDubey">
+    <img src="https://github.com/Inferno-Dev-69/Inferno-Dev-69/blob/main/grid-snake.svg" alt="snake" />
+  </a>
+</div>
 
-<!--
-**AkarsitDubey/AkarsitDubey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Greetings, I'm Inferno_Dev
 
-Here are some ideas to get you started:
+Crafting digital experiences with a fusion of art and code. 🚀✨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎨 Tech Wizardry
+
+### Frontend
+
+- **Web Sorcery**: HTML, CSS (Bootstrap, Tailwind, Chakra, Skeleton)
+- **Magic Scripts**: JavaScript, React, Angular, Vue, Svelte, Next.js
+
+### Backend
+
+- **Coding Alchemy**: Python (Flask, Django), Node.js (Express), Ruby (Rails), PHP (Laravel), C# (ASP.NET), Perl
+- **Database Mastery**: MongoDB, MySQL, PostgreSQL, Redis
+
+### ☁️ Cloud Enchantments
+
+- **Hosting Spells**: AWS, Heroku, Netlify
+- **Container Sorcery**: Docker, Kubernetes
+
+### UI Frameworks
+
+- **Design Wizardry**: Chakra UI, Tailwind CSS, Bootstrap, Skeleton UI, Svelte
+
+## 🌱 Currently Learning
+
+- Mastering the arcane arts of shadow DOM 🌑
+
+## 📫 Get in touch
+
+- Discord: [Inferno](https://discord.com/users/1152852720148029462)
+- Twitter Enchantments: [Code Devil](https://twitter.com/CodeDevil69)
+- YouTube Spells: [Code Devil](https://www.youtube.com/channel/UC5Mjeqbdwdc2TM4vLYP2EyA)
+
+<div align="center">
+  <a href="https://github.com/DevInferno">
+    <img src="https://github.com/Inferno-Dev-69/Inferno-Dev-69/blob/main/grid-snake.svg" alt="snake" />
+  </a>
+</div>
